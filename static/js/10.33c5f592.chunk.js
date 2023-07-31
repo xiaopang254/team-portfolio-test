@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-tailwindcss-portfolio"]=this["webpackJsonpreact-tailwindcss-portfolio"]||[]).push([[10],{179:function(t,a,e){"use strict";e.r(a);var i=e(126),s=e(32),c=e(33),n=e(0);a.default=function(){return Object(n.jsxs)(i.a.div,{initial:{opacity:0},animate:{opacity:1},transition:{ease:"easeInOut",duration:.5,delay:.1},className:"container mx-auto flex flex-col-reverse lg:flex-row py-5 lg:py-10 lg:mt-10",children:[Object(n.jsx)(c.a,{}),Object(n.jsx)(s.a,{})]})}}}]);
+//# sourceMappingURL=10.33c5f592.chunk.js.map
